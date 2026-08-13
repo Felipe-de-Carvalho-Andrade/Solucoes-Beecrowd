@@ -1,7 +1,7 @@
 #include <stdio.h>
+#include <math.h>
 
-int main()
-{
+int main() {
     int A, B, C, MaiorAB;
     
     scanf("%d %d %d", &A, &B, &C);
